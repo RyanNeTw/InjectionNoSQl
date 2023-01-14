@@ -1,0 +1,17 @@
+{
+    "name": "netro/ryan-ezzerqti_injection-no-sql",
+    "autoload": {
+        "psr-4": {
+            "Netro\\RyanEzzerqtiInjectionNoSql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RyanNeTw",
+            "email": "ryan.ez-zerqti@epitech.digital"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.15"
+    }
+}
